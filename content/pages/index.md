@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Movie XCine is a new streaming and movie information platform
+      text: Movie XCine
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
