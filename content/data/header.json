@@ -22,7 +22,7 @@
         },
         {
             "label": "SERIES",
-            "altText": "Blog",
+            "altText": "SERIES",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
