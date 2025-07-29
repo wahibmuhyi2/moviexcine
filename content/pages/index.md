@@ -7,7 +7,7 @@ sections:
       text: Movie XCine
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: is a new streaming and movie information platform
     text: >+
       <div style="text-align: center">Movie XCine is a new streaming and movie
       information platform featuring a collection of films from various genres
