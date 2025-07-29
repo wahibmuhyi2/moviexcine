@@ -23,7 +23,7 @@
         {
             "label": "SERIES",
             "altText": "SERIES",
-            "url": "/blog",
+            "url": "/SERIES",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
