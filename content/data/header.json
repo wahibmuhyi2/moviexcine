@@ -31,7 +31,7 @@
         },
         {
             "label": "POPULARES",
-            "altText": "Careers page",
+            "altText": "POPULARES",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
