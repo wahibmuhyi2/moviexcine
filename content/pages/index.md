@@ -8,12 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      Movie XCine is a new streaming and movie information platform featuring a
-      collection of films from various genres and countries. Users can watch
-      trailers, read synopses, reviews, and view ratings before watching. It
-      also features a quick search feature, a favorites list, and movie
-      recommendations based on user interests.
+    text: >+
+      <div style="text-align: center">Movie XCine is a new streaming and movie
+      information platform featuring a collection of films from various genres
+      and countries. Users can watch trailers, read synopses, reviews, and view
+      ratings before watching. It also features a quick search feature, a
+      favorites list, and movie recommendations based on user interests.</div>
+
     actions:
       - label: Get started
         altText: ''
