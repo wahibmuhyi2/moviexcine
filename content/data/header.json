@@ -32,7 +32,7 @@
         {
             "label": "POPULARES",
             "altText": "POPULARES",
-            "url": "/careers",
+            "url": "/populares",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
